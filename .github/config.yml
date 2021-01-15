@@ -4,6 +4,7 @@
 # Can be either a string :
 requestInfoReplyComment: >
   We would appreciate it if you could provide us with more info about this issue/pr!
+  It happened right after I sat in my chair, I may have moved my mouse
 
 # Or an array:
 # requestInfoReplyComment:
